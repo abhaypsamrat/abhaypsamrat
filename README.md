@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhay.p.samrat@gmail.com**
 
-- ⚡ Fun fact **Regular learning**
+- ⚡ Fun fact **Regular learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
