@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaypsamrat&label=Profile%20views&color=0e75b6&style=flat" alt="abhaypsamrat" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaypsamrat&label=Profile%20views&color=0e75b6&style=flat" alt="abhaypsamrat" /> </p> -->
 
 
 - 🌱 I’m currently learning **ReactJS**
@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/abhaypsamrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhaypsamrat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhaypsamrat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhaypsamrat/" height="30" width="40" /></a>
-<a href="https://instagram.com/abhaypsamrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhaypsamrat" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/abhaypsamrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhaypsamrat" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
