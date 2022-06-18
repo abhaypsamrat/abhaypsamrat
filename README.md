@@ -4,10 +4,10 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaypsamrat&label=Profile%20views&color=0e75b6&style=flat" alt="abhaypsamrat" /> </p> -->
 
 *  🌍  I'm based in India
-*  🌱  I’m currently learning **ReactJS**
+*   🌱  I’m currently learning **ReactJS**
 *  🤝  I'm open to collaborating on ReactJs & NodeJs Project
 *  🖥️  See my portfolio at [https://apsamrat.netlify.app](https://apsamrat.netlify.app/)
-*  📫  How to reach me **abhay.p.samrat@gmail.com**
+*   📫  How to reach me **abhay.p.samrat@gmail.com**
 
 <!-- - ⚡ Fun fact **Regular learner** -->
 
