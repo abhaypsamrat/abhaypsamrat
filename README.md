@@ -33,6 +33,7 @@ src="https://img.shields.io/twitter/follow/abhaypsamrat?logo=twitter&style=for-t
 ![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 ![](https://img.shields.io/badge/React--Router--dom-696969?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-563D7C?style=for-the-badge&logo=heroku&logoColor=white)
 
