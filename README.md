@@ -1,24 +1,18 @@
-<h1 align="center">Hi 👋, I'm Abhay</h1>
-<h3 align="center">A passionate developer from India</h3>
+## Hey 👋, I'm Abhay
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhaypsamrat) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhaypsamrat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhaypsamrat) 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaypsamrat&label=Profile%20views&color=0e75b6&style=flat" alt="abhaypsamrat" /> </p> -->
+My name is Abhay Pratap Samrat. I am an aspiring software Engineer 👨‍💻 .<br/>
+Currently, I'm pursuing B.tech in computer science and engineering from Kashi IT Varanasi.<br/>
+I love working in web development and i want to become a skilled web developer. I am working on web development skills using HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs and NextJs.
 
-*  🌍  I'm based in India
-*  🌱  I’m currently learning **NodeJS**
+*  🌱  I’m currently learning Full Stack Development.
+*  🛠   I’m currently working with Javascript, ReactJs, NodeJs, ExpressJs, MongoDB, etc.
 *  🤝  I'm open to collaborating on ReactJs & NodeJs Project
 *  🖥️  See my portfolio at [https://apsamrat.netlify.app](https://apsamrat.netlify.app/)
 *  📫  How to reach me **abhay.p.samrat@gmail.com**
 
-<!-- - ⚡ Fun fact **Regular learner** -->
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left"> <a href="http://www.instagram.com/abhaypsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abhaypsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/abhaypsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/abhaypsamrat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-                 
-<a href="https://www.twitter.com/abhaypsamrat" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/abhaypsamrat?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>                  
-                
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -35,13 +29,8 @@ src="https://img.shields.io/twitter/follow/abhaypsamrat?logo=twitter&style=for-t
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![](https://img.shields.io/badge/React--Router--dom-696969?style=for-the-badge&logo=react&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
- </div>
 
 
 <a href="https://github.com/abhaypsamrat/convoychat">
@@ -52,3 +41,7 @@ src="https://img.shields.io/twitter/follow/abhaypsamrat?logo=twitter&style=for-t
 </a>
 
 <a href="http://www.github.com/abhaypsamrat"><img src="https://activity-graph.herokuapp.com/graph?username=abhaypsamrat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+
