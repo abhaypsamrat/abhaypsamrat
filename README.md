@@ -7,7 +7,7 @@ My name is Abhay Pratap Samrat. I am an aspiring software Engineer 👨‍💻 .
 Currently, I'm pursuing B.tech in computer science and engineering from Kashi IT Varanasi.<br/>
 I love working in web development and i want to become a skilled web developer. I am working on web development skills using HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs and NextJs.
 
-*  🌱  I’m currently learning Full Stack Development.
+*  🌱  I’m currently learning MERN Stack Development.
 *  🛠   I’m currently working with Javascript, ReactJs, NodeJs, ExpressJs, MongoDB, etc.
 *  🤝  I'm open to collaborating on ReactJs & NodeJs Project
 *  🖥️  See my portfolio at [https://apsamrat.netlify.app](https://apsamrat.netlify.app/)
