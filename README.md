@@ -39,7 +39,7 @@ I love working in web development and i want to become a skilled web developer. 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abhaypsamrat&count_private=true&show_icons=true&theme=merko" />
 </a>
 
-<a href="http://www.github.com/abhaypsamrat"><img src="https://activity-graph.herokuapp.com/graph?username=abhaypsamrat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/abhaypsamrat"><img src="https://activity-graph.herokuapp.com/graph?username=abhaypsamrat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 
 
