@@ -1,14 +1,15 @@
 ## Hey 👋, I'm Abhay
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhaypsamrat) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhaypsamrat) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhaypsamrat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhaypsamrat) 
+
 
 My name is Abhay Pratap Samrat. I am an aspiring software Engineer 👨‍💻 .<br/>
 Currently, I'm pursuing B.tech in computer science and engineering from Kashi IT Varanasi.<br/>
 I love working in web development and i want to become a skilled web developer. I am working on web development skills using JavaScript, ReactJs, NodeJs and ExpressJs.
 
 *  🌱  I’m currently learning MERN Stack Development.
-*  🛠   I’m currently working with Javascript, ReactJs, NodeJs, ExpressJs, MongoDB, etc.
+*  🛠   I’m currently working with Javascript, ReactJs, NodeJs, ExpressJs & MongoDB.
 *  🤝  I'm open to collaborating on ReactJs & NodeJs Project
 *  🖥️  See my portfolio at [https://apsamrat.netlify.app](https://apsamrat.netlify.app/)
 *  📫  How to reach me **abhay.p.samrat@gmail.com**
