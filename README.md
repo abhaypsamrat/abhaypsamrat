@@ -11,8 +11,8 @@ I love working in mobile application and web development and want to become a sk
 I am currently working on mobile application development with React Native and web development using JavaScript and ReactJs. I am also familiar with NodeJs and ExpressJs.
 
 *  🌱  I’m currently learning MERN Stack Development.
-*  🛠   I’m currently working with Javascript, ReactJs, React Native, NodeJs, ExpressJs & MongoDB.
-*  🤝  I'm open to collaborating on ReactJs & NodeJs Project
+*  🛠   I’m currently working with Javascript, React Native, ReactJs, NodeJs, ExpressJs & MongoDB.
+*  🤝  I'm open to collaborating on React Native & ReactJs projects.
 *  🖥️  See my portfolio at [https://apsamrat.netlify.app](https://apsamrat.netlify.app/)
 *  📫  How to reach me **abhay.p.samrat@gmail.com**
 
