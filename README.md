@@ -5,9 +5,7 @@
 
 
 My name is Abhay Pratap Samrat. I am software developer 👨‍💻 .<br/>
-<!--Currently, I'm pursuing B.tech in computer science and engineering from Kashi IT Varanasi. -->
-I love working in mobile application and web development. <br/>
-
+As a software developer with a strong foundation in React Native, React.js, JavaScript.
 I am currently working on mobile application development with React Native and web development using JavaScript and ReactJs. I am also familiar with NodeJs and ExpressJs.
 
 *  🌱  I’m currently learning MERN Stack Development.
